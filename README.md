@@ -1,13 +1,21 @@
-# Sample Hardhat Project
+# Avax-Eth Assignment
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Going to use mint(),burn(),transfer() functions using hardhat network.
 
-Try running some of the following tasks:
+## Description
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Deploying the contract in hardhat network and using it in remix.
+
+## Getting Started
+
+## Initialize
+
+1. Use hardhat init and select javascript.
+2. The create your contratc in the contract folder.
+3. Then use hardhat to compile the contract.
+
+### Executing program
+
+1. use npx hardhat node to deploy the chain in localhost.
+2. Use remix to connect to your hardhat network.
+3. Then Deploy it there and run your functions.
